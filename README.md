@@ -1,4 +1,4 @@
-# 马斯克的 xAI Grok 已开通网页版！Grok3 国内使用指南~ 【2025/03/13 更新】        
+# 马斯克的 xAI Grok 已开通网页版！Grok3 国内使用指南~ 【2025/03/14 更新】        
 
 在国内轻松使用 [**xAI Grok 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 Grok-3 Reasoning 及中文功能**   
 本指南提供全面的 **xAI Grok 国内使用指南**，包括国内可用的 [**xAI Grok3 网页版**](https://chat.yixiaai.com)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 镜像网站**](https://chat.yixiaai.com) 和 详细使用教程，帮助您快速使用上 grok~
