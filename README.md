@@ -1,4 +1,4 @@
-# 马斯克的 xAI Grok 已开通网页版！Grok3 国内使用指南~ 【2025-03-14 更新】         
+# 马斯克的 xAI Grok 已开通网页版！Grok3 国内使用指南~ 【2025-03-15 更新】         
 
 在国内轻松使用 [**xAI Grok 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 Grok-3 Reasoning 及中文功能**   
 本指南提供全面的 **xAI Grok 国内使用指南**，包括国内可用的 [**xAI Grok3 网页版**](https://chat.yixiaai.com)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 镜像网站**](https://chat.yixiaai.com) 和 详细使用教程，帮助您快速使用上 grok~
@@ -21,10 +21,11 @@
 
 以下是我们精选的国内优质 **Grok 中文版镜像网站**，无需翻墙即可使用：
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Grok 中文版**，支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~
+- [chat.lanjing.ai](https://chat.lanjing.ai) - **Grok 中文站**，支持 Grok 3、GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet 最先进的模型，无限使用~
 - [chat.lify.vip](https://www.yixiaai.com/) - **Grok 镜像网站**，支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT 镜像网站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [yixiaai.cn](https://yixiaai.cn/) -  **免费AI工具**，支持 Grok-3、GPT-4、4o，提供多元功能。
 
 ---
 
